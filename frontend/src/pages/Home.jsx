@@ -29,7 +29,7 @@ export default function Home() {
             href="#contact"
             className="btn btn-outline btn-wide text-white border-white hover:border-primary hover:bg-primary hover:text-white transition-all"
           >
-            Hire Us
+            Hire Tavdev
           </a>
         </div>
       </div>
