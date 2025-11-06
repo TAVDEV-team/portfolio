@@ -5,7 +5,7 @@ const About = () => {
   return (
     <section className="min-h-screen bg-[#0a192f] text-white flex flex-col justify-center items-center px-6 md:px-20 py-20">
       <h2 className="text-3xl md:text-4xl font-bold mb-10">
-        About <span className="text-purple-400">Us</span>
+        About <span className="text-purple-400">TAVDEV</span>
       </h2>
 
       <div className="grid md:grid-cols-2 gap-10 max-w-6xl w-full">
@@ -20,7 +20,7 @@ const About = () => {
           <span className="text-purple-400"> React</span>, <span className="text-purple-400">Django</span>, and modern cloud tools.
         </p>
         <p className="text-gray-400 mb-8 leading-relaxed">
-          We also provide <span className="text-purple-400 font-medium">web scraping and data automation</span> services,
+          Tavdev also provides <span className="text-purple-400 font-medium">web scraping and data automation</span> services,
           helping businesses collect, clean, and process large-scale data efficiently.  
           At TAVDEV, we’re committed to delivering elegant, production-ready solutions that drive real impact.
         </p>
