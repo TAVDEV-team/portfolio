@@ -35,14 +35,14 @@ export default function Projects() {
                 >
                   Live Demo
                 </a>
-                <a
+                {/* <a
                   href={project.github}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-4 py-2 border border-purple-400 text-purple-400 hover:bg-purple-500 hover:text-white text-sm font-medium rounded-md transition"
                 >
                   GitHub Repo
-                </a>
+                </a> */}
               </div>
             </div>
 
