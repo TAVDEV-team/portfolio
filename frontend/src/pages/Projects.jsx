@@ -8,7 +8,7 @@ export default function Projects() {
       className="bg-[#0a192f] min-h-screen text-white py-20 flex flex-col items-center"
     >
       <h2 className="text-3xl md:text-4xl font-bold text-center mb-16">
-        My <span className="text-purple-400">Projects</span>
+        Tavdev's  <span className="text-purple-400">Projects</span>
       </h2>
 
       {/* Project Grid */}

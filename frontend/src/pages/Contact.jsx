@@ -26,7 +26,7 @@ export default function Contact() {
 
           <div className="flex items-center gap-4">
             <MapPin className="text-purple-400 w-6 h-6" />
-            <p className="text-gray-300">Bangladesh</p>
+            <p className="text-gray-300">Chester, England ,UK</p>
           </div>
 
           <div className="flex items-center gap-4">
