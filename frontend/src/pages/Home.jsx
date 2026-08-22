@@ -18,7 +18,7 @@ export default function Home() {
           problems.
         </p>
 
-        <div className="flex justify-center gap-4">
+        <div className="flex flex-col sm:flex-row justify-center gap-4">
           <a
             href="#projects"
             className="btn btn-primary btn-wide text-white font-semibold"
