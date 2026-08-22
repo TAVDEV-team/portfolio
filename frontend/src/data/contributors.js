@@ -3,7 +3,7 @@ const contributors = [
     slug: "mamun",
     name: "Md Abdullah All Mamun",
     role: "Backend Engineer",
-    image: "/TAVDEV.png",
+    image: "/md_abdullah_all_mamun.jpeg",
 
     bio: "Backend engineer focused on building reliable APIs, scalable backend systems, automation workflows, and production-ready infrastructure.",
 
@@ -76,7 +76,7 @@ const contributors = [
     slug: "trisha",
     name: "Trisha",
     role: "Frontend Developer",
-    image: "/TAVDEV.png",
+    image: "/trisha_pal.jpeg",
 
     bio: "Frontend developer focused on building responsive, accessible, and user-friendly interfaces for modern web applications.",
 
