@@ -1,6 +1,6 @@
 const contributors = [
   {
-    slug: "mamun",
+    slug: "md_abdullah_all_mamun",
     name: "Md Abdullah All Mamun",
     role: "Backend Engineer",
     image: "/md_abdullah_all_mamun.jpeg",
@@ -68,12 +68,12 @@ const contributors = [
 
     links: {
       github: "https://github.com/mamun700263",
-      linkedin: "https://www.linkedin.com/",
+      linkedin: "https://www.linkedin.com/in/md-abdullah-all-mamun/",
     },
   },
 
   {
-    slug: "trisha",
+    slug: "trisha_pal",
     name: "Trisha",
     role: "Frontend Developer",
     image: "/trisha_pal.jpeg",
@@ -133,8 +133,8 @@ const contributors = [
     ],
 
     links: {
-      github: "https://github.com/",
-      linkedin: "https://www.linkedin.com/",
+      github: "https://github.com/trishaPal2003",
+      linkedin: "https://www.linkedin.com/in/trisha-pal03/",
     },
   },
 ];

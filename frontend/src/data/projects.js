@@ -29,8 +29,8 @@ const projects = [
     ],
 
     contributors: [
-      "mamun",
-      "trisha",
+      "md_abdullah_all_mamun",
+      "trisha_pal",
     ],
   },
 
@@ -88,7 +88,7 @@ const projects = [
     ],
 
     contributors: [
-      "mamun",
+      "md_abdullah_all_mamun",
     ],
   },
 
@@ -122,8 +122,8 @@ const projects = [
     ],
 
     contributors: [
-      "trisha",
-      "mamun",
+      "trisha_pal",
+      "md_abdullah_all_mamun",
     ],
   },
 
@@ -157,7 +157,7 @@ const projects = [
     ],
 
     contributors: [
-      "trisha",
+      "trisha_pal",
     ],
   },
 ];
